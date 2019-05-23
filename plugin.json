@@ -1,8 +1,8 @@
 {
-  "name"              :"TopItems",
+  "name"              :"TopItemsTutorial",
   "description"       :"Plugin to render a list of top items",
-  "namespace"         :"TopItems",
+  "namespace"         :"TopItemsTutorial",
   "author"            :"Your name",
   "type"              :"template",
-  "serviceProvider"   :"TopItems\\Providers\\TopItemsServiceProvider"
+  "serviceProvider"   :"TopItemsTutorial\\Providers\\TopItemsServiceProvider"
 }
